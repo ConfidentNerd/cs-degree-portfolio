@@ -8,10 +8,10 @@ A C++ course management application designed for academic advisors. The program 
 The program prompts the user for a `.csv` file where each line represents a single course using the following structure:
 `CourseCode,CourseName,Prerequisite1,Prerequisite2,...`
 
-**Example:**
-CSCI100,Introduction to Programming,  
-CSCI200,Data Structures,CSCI100  
-CSCI300,Advanced Algorithms,CSCI200,MATH201  
+**Example:**<br>
+CSCI100,Introduction to Programming<br>
+CSCI200,Data Structures,CSCI100<br>
+CSCI300,Advanced Algorithms,CSCI200,MATH201
 
 ---
 
