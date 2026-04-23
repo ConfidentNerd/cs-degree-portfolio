@@ -9,9 +9,9 @@ The program prompts the user for a `.csv` file where each line represents a sing
 `CourseCode,CourseName,Prerequisite1,Prerequisite2,...`
 
 **Example:**
-CSCI100,Introduction to Programming,
-CSCI200,Data Structures,CSCI100
-CSCI300,Advanced Algorithms,CSCI200,MATH201
+CSCI100,Introduction to Programming,  
+CSCI200,Data Structures,CSCI100  
+CSCI300,Advanced Algorithms,CSCI200,MATH201  
 
 ---
 
