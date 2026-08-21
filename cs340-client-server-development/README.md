@@ -1,4 +1,4 @@
-# CS 340 README Template
+# CRUD Module & Shelter Animal Dashboard
 
 ## About the Project/Project Title
 The project is a CRUD (Create, Read, Update, Delete) Python module designed to work with a MongoDB database. Its main purpose is to act as a “middleman”, allowing a Python application to interact with a MongoDB database with improved simplicity. 
