@@ -16,3 +16,5 @@ A collection of academic projects and coursework from my Computer Science degree
   * A full-stack application utilizing Python, Dash, and MongoDB to demonstrate client-server architecture, database indexing, and CRUD operations via an interactive dashboard to filter and locate rescue animals.
 * **`cs360-android-weight-tracker/`**
   * An Android app built with Java inside Android Studio, focused on frictionless design for logging daily weight entries, tracking progress toward a goal weight, and sending SMS alerts.
+* **`cs465-fullstack-travlr-app/`**
+  * A full-stack travel booking web app built with the MEAN stack, using an Express website for customers and an Angular SPA for admins to manage trips, with JWT authentication to secure the API.
