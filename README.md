@@ -8,6 +8,8 @@ A collection of academic projects and coursework from my Computer Science degree
   * A C++ command-line application that projects investment balances over time, calculating compounding interest with and without additional monthly deposits.
 * **`cs300-cpp-course-planner/`**
   * A C++ course management application designed for academic advisors. The program parses CSV data into a Binary Search Tree (BST) to allow for efficient alphanumeric sorting and lookups for course prerequisites.
+* **`cs305-java-secure-ssl-server/`**
+  * A Java Spring Boot web app refactored to use HTTPS and SHA-256 checksum verification.
 * **`cs320-java-contact-service/`**
   * A Java-based contact management service built to practice software testing, defensive programming, and achieving high test coverage using JUnit.
 * **`cs330-opengl-interactive-scene/`**
